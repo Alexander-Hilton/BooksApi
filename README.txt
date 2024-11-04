@@ -1,0 +1,2 @@
+- run dotnet test to run tests in BookTests.cs (Repository tests and Controller Tests)
+- http://localhost:5200/swagger/index.html to use swagger
